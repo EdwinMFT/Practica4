@@ -1,0 +1,2 @@
+C:\Users\Edwin\Documents\Calculadora\Calculadora\Calculadora.UWP\Calculadora.UWP.csproj;x86
+C:\Users\Edwin\Documents\Calculadora\Calculadora\Calculadora\Calculadora.csproj;neutral
